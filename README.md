@@ -1,2 +1,2 @@
 # testrepo
-READ ME
+This is a test in creating a read me file.
